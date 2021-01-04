@@ -121,7 +121,7 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  Photos: /photo/ || fa fa-image
+  # Photos: /photo/ || fa fa-image
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -202,7 +202,7 @@ links_settings:
   layout: block
 
 links:
-  Gallery: https://fengjicamao.quickconnect.to/photo
+  Photo Gallery: https://elmohsiao.myportfolio.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
