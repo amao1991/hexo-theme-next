@@ -187,6 +187,7 @@ social:
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   Instagram: https://instagram.com/elmootw || fab fa-instagram
+  Behance: https://www.behance.net/elmootw || fab fa-behance
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
@@ -202,7 +203,7 @@ links_settings:
   layout: block
 
 links:
-  Photo Gallery: https://elmohsiao.myportfolio.com/
+  Adobe Portfolio: https://elmootw.myportfolio.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
